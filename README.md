@@ -1,5 +1,3 @@
-Hi 👋,
-
 I have moved my hobby projects to [GitLab](https://gitlab.com/vmfhrmfoaj).
 
 <!--
